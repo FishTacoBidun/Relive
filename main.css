@@ -57,6 +57,18 @@ ol {
     margin-top: 0;
   }
 
+video {
+    max-width: 512px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+  }
+
+  iframe {
+    max-width: 560px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+  }
+
   p {
     font-family:"Pixelify Sans", sans-serif;
     padding-left:3%;
