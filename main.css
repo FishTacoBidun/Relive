@@ -51,6 +51,7 @@ ol {
     padding-left: 1em;
     font-family:"Pixelify Sans", sans-serif;
     margin-top:0;
+    font-size: 20px;
 }
 
   #trailer {
@@ -73,7 +74,7 @@ video {
     font-family:"Pixelify Sans", sans-serif;
     padding-left:3%;
     padding-right:3%;
-    font-size: 25px;
+    font-size: 20px;
   }
 
   p img {
